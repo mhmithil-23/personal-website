@@ -52,6 +52,7 @@ h3,h1{
     margin: 5px;
 }
 .work-part{
+    height: auto;
     background-image: url(images/latest-work-bg.png);
     background-repeat: no-repeat;
 }
@@ -67,6 +68,47 @@ h3,h1{
     width: 30%;
     margin-top: 100px;
     margin-left: 30px;
+}
+.about{
+    width: 30%;
+    text-align: center;
+    align-items: center;
+    margin-left: 33%;
+    margin-top: 10px;
+}
+.ceo{
+    line-height: 5px;
+}
+h5{
+    color: gray;
+}
+#quote{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.email{
+    line-height: 1px;
+    background-color: rgb(231, 68, 122);
+    padding: 40px 60px;
+    border-radius: 5px;
+    font-weight: 700;
+    color:white;
+    word-spacing: 2px;
+    font-size: 24px;
+    align-items: center;
+}
+.email a{
+    text-decoration: none;
+    color:white;
+}
+footer{
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(122, 101, 75);
+    text-align: center;
+    margin-bottom: 10px;
 }
 
 
